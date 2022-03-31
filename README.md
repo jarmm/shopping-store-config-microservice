@@ -1,0 +1,1 @@
+## Shopping Store Config Service
